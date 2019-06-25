@@ -48,3 +48,6 @@ venv/
 
 #mac file
 .DS_Store
+
+#db
+*.db
