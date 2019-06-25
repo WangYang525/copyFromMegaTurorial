@@ -50,4 +50,4 @@ venv/
 .DS_Store
 
 #db
-*.db
+app.db
